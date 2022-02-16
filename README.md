@@ -21,8 +21,7 @@
 - ![image](https://user-images.githubusercontent.com/19878877/154177154-af969886-ec42-43e7-b5cb-5175316e7ca7.png)
 
 ## Summary
+From a close examination of the data, one can see that 72,458 positions will be open to be filled in the next few years.  This can clearly be seen in the Retireing Titles table.  This includes 7 different titles from Engineer to Staff to Technique Leader.  There are 1550 employees who meet the current criteria for mentorship programs.  Considering mentors typically have 1 to 5 mentees depending on the positions, this would provide open spots for up to 7750 up-coming employees.  This would imply that only 10% of the upcoming positions would be bonded to a menorship program.
 
+Seeing as this is a larger company, they many be concerned about the amount of pay per employee on the roster.  As a result, the board may request a detailed analysis of the salaries table and how it relates to seniority.  For example, are they able to afford two young engineers for the cost of one approching the end of their career?  It is also prudent to understand the amount of time, employees and money is put towards training each year: Will this increase with a significant departure from the work force?  Almost definitely.  This will require the collection of new data into a training table.  
 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
